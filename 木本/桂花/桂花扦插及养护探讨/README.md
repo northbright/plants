@@ -3,9 +3,9 @@
 
 #### 关于本文
 
-本文整理自[一生爱兰](http://www.tahua.net/home.php?mod=space&uid=105352)发表于[踏花行论坛](http://www.tahua.net/)的[同名帖子](http://www.tahua.net/thread-189291-1-1.html)。
+本文整理自**一生爱兰**发表于[踏花行论坛](http://www.tahua.net/)的[同名帖子](http://www.tahua.net/thread-189291-1-1.html)。
 
-非常感谢[一生爱兰](http://www.tahua.net/home.php?mod=space&uid=105352)无私分享自己的经验以及耐心回答网友的各种问题，帮助了很多对种植桂花感兴趣的朋友。
+非常感谢**一生爱兰**无私分享自己的经验以及耐心回答网友的各种问题，帮助了很多对种植桂花感兴趣的朋友。
 
 本文的目的在于为了更多的网友能方便的阅读这篇帖子，在长达一百多页的原贴上进行了如下整理：
 
