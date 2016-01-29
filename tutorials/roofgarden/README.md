@@ -9,7 +9,7 @@
 * 将作者的分散的留言按分类总结成各个章节
 * 将网友和作者的问答抽取出来融入到各个章节，不能融入的单独列入Q & A章节
 * 按分类整理屋顶菜园的所有照片和注释
-* 制作成[Markdown](http://daringfireball.net/projects/markdown/)格式的文章，放在[github](https://github.com/northbright/roofgarden)上方便后来人在线阅读。希望更多人能从中受益。
+* 制作成[Markdown](http://daringfireball.net/projects/markdown/)格式的文章，放在[github](https://github.com/northbright/plants)上方便后来人在线阅读。希望更多人能从中受益。
 
 ## 致谢
 * 非常感谢**浪尖风口**无私把自己的屋顶种植经验以及**关键的蓄水式种植箱的制作方法**与大家分享，而且耐心回答网友的问题。
